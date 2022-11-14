@@ -16,6 +16,8 @@
 }
 .socialmedia {
     text-align: center;
+    width: 50%;
+    float: left;
     
 }
 .title {
