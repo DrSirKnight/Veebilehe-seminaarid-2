@@ -1,0 +1,54 @@
+.kõik {
+    margin-left: 4%;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+.veerg {
+    float:left;
+    width: 50%;
+    height: 100%;
+}
+.rida{
+    background-color: red;
+}
+.logo-img {
+    width: 4%;
+}
+.socialmedia {
+    text-align: center;
+    
+}
+.title {
+    font-size: 500%;
+    margin-top: 30px;
+    margin-bottom: 2%;
+    font-family: Great Vibes;
+}
+.map {
+    text-align: center;
+    float:left;
+    width: 50%;
+}
+
+.galerii {
+    width: 100%;
+    float:left;
+}
+
+.lisainfo {
+    text-align: center;
+}
+
+.lehed {
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.test {
+    float:left;
+    width: 50%;
+    background-color: blue;
+    height: inherit;
+}
