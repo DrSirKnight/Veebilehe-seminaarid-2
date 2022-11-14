@@ -2,55 +2,92 @@
     margin-left: 4%;
     margin-right: 2%;
     margin-top: 2%;
+    background-image: url("https://lorelleteaches.files.wordpress.com/2012/08/seamless-background-image-tile.jpg");
+    background-repeat: repeat;
 }
 .veerg {
-    float:left;
     width: 50%;
     height: 100%;
 }
 .rida{
-    background-color: red;
+    display:flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 15px;
 }
 .logo-img {
-    width: 4%;
+    width: 75px;
 }
 .socialmedia {
     text-align: center;
     width: 50%;
-    float: left;
     
 }
 .title {
-    font-size: 500%;
+    font-size: 100px;
     margin-top: 30px;
-    margin-bottom: 2%;
+    margin-bottom: 1%;
     font-family: Great Vibes;
 }
-.map {
-    text-align: center;
-    float:left;
-    width: 50%;
-}
+
 
 .galerii {
     width: 100%;
-    float:left;
+    box-shadow: 5px 5px 10px;
 }
 
-.lisainfo {
-    text-align: center;
+.kaart {
+    box-shadow: 5px 5px 10px;
+}
+
+.ümbrusl{
+    padding: 30px;
+    padding-left: 0px;
+    
+}
+
+.ümbrusr{
+    padding: 30px;
+    padding-right: 0px;
 }
 
 .lehed {
     font-family: 'Franklin Gothic Medium';
     color: black;
-    font-size: 30px;
+    font-size: 40px;
     text-decoration: none;
+    margin-right: 3%;
+    
+}
+
+.lisainfo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 16px;
+    backdrop-filter: blur(2px);
+    background-color: rgba(0, 0, 0, 0.109);
+    padding: 3px;
 }
 
 .test {
-    float:left;
     width: 50%;
-    background-color: blue;
-    height: inherit;
+    height: 100%;
+}
+.rida2{
+    padding-left: 10px;
+    display:flex;
+    align-items: center;
+    backdrop-filter: blur(2px);
+    background-color: rgba(0, 0, 0, 0.109);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.hinnad {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
 }
